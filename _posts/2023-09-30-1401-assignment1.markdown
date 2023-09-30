@@ -13,8 +13,9 @@ categories: jekyll update
 
 
 - the photograph I chose to focus on is in part of her ‘Velvet Black - Notes’ solo show which combines her work from her series ‘Velvet Black’ and ‘Notes’  in which acts as a present day ode to victorian plant shows with black velvet backdrops and their cultivation of indoor-outdoor window theatres
--The series started as a photographic notebook of planting a garden, and is resonant of a flower press, portraying the transience of daylight and blooms.
--The book series, “Velvet Black” was the start of the wider series, “Notes,” from both childhood places and the garden. An abstraction of the historic and impressions of the past and present.
+- The series started as a photographic notebook of planting a garden, and is resonant of a flower press, portraying the transience of daylight and blooms.
+- The book series, “Velvet Black” was the start of the wider series, “Notes,” from both childhood places and the garden. An abstraction of the historic and impressions of the past and present.
+- her art style fits in the genre of abstract art
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
