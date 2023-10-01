@@ -6,11 +6,11 @@ categories: jekyll update
 ---
 ## Exploring the Enigmatic World of 'Velvet Black - Notes'
 ---
-
 Delve into the abstract photography of Fluer Olby, a North Yorkshire-based photographer whose work draws inspiration from the natural world, creatively transforming it through her lens. With an established studio practice in London, Olby's artistry takes center stage in her solo exhibition, "Velvet Black - Notes," where she seamlessly merges her two distinct series, "Velvet Black" and "Notes." This exhibition serves as a modern ode to Victorian plant shows with black velvet backdrops, encapsulating the transient beauty of daylight and blossoms. Her work, situated within the realm of abstract art, transcends conventional boundaries, evoking emotions and blurring the lines between reality and imagination. The selected image from "Velvet Black - Notes" offers a mesmerizing glimpse into a world where nature's secrets intertwine with art, inviting viewers to lose themselves in the enigmatic beauty of Olby's creations.
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
+## Unveiling Nature's Enigma: The Mysterious Beauty of 'New York Night'
+---
+The focal point of this captivating image is a Helleborus species flower, specifically 'New York Night,' part of the Honeymoon series. These Lentin roses boast single black flowers adorned with a mesmerizing array of shades, including deep grey-purple, jet black, and black-purple hues. Against a velvety black backdrop, the composition exudes an elevated aesthetic reminiscent of a flower press. The photograph embodies a unique blend of elements, drawing inspiration from both childhood memories and the enchanting garden, transporting the viewer to a place where time seems suspended. Captured during the springtime, between February and May 2020, a period when the New York Night flower is in high season, the image encapsulates the transient beauty of nature's cycles. There's a symbolic layer to this image as well; the Helleborus species, known for its toxicity to humans, paradoxically represents a kind of beauty that is alluring but untouchable, inviting contemplation on the fragility and complexity of nature's allure.
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
 Jekyll also offers powerful support for code snippets:
