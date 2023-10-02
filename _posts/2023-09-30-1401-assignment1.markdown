@@ -5,27 +5,12 @@ date:   2023-09-30 14:46:51 -0600
 categories: jekyll update
 ---
 ## Exploring the Enigmatic World of 'Velvet Black - Notes'
----
-Delve into the abstract photography of Fluer Olby, a North Yorkshire-based photographer whose work draws inspiration from the natural world, creatively transforming it through her lens. With an established studio practice in London, Olby's artistry takes center stage in her solo exhibition, "Velvet Black - Notes," where she seamlessly merges her two distinct series, "Velvet Black" and "Notes." This exhibition serves as a modern ode to Victorian plant shows with black velvet backdrops, encapsulating the transient beauty of daylight and blossoms. Her work, situated within the realm of abstract art, transcends conventional boundaries, evoking emotions and blurring the lines between reality and imagination. The selected image from "Velvet Black - Notes" offers a mesmerizing glimpse into a world where nature's secrets intertwine with art, inviting viewers to lose themselves in the enigmatic beauty of Olby's creations.
+
+Delve into the abstract photography of Fluer Olby, a North Yorkshire-based photographer whose work draws inspiration from the natural world, creatively transforming it through her lens. With an established studio practice in London, Olby's artistry takes center stage in her solo exhibition, "Velvet Black - Notes," where she seamlessly merges her two distinct series, "Velvet Black" and "Notes." This exhibition serves as a modern ode to Victorian plant shows with black velvet backdrops, encapsulating the transient beauty of daylight and blossoms. Her work, situated within the realm of abstract art, transcends conventional boundaries, evoking emotions and blurring the lines between reality and imagination. The selected image from ["Velvet Black - Notes"]:https://gardenmuseum.org.uk/exhibitions/fleur-olby-velvet-black-notes/
+offers a mesmerizing glimpse into a world where nature's secrets intertwine with art, inviting viewers to lose themselves in the enigmatic beauty of Olby's creations.
 
 ## Unveiling Nature's Enigma: The Mysterious Beauty of 'New York Night'
----
-The focal point of this captivating image is a Helleborus species flower, specifically 'New York Night,' part of the Honeymoon series. These Lentin roses boast single black flowers adorned with a mesmerizing array of shades, including deep grey-purple, jet black, and black-purple hues. Against a velvety black backdrop, the composition exudes an elevated aesthetic reminiscent of a flower press. The photograph embodies a unique blend of elements, drawing inspiration from both childhood memories and the enchanting garden, transporting the viewer to a place where time seems suspended. Captured during the springtime, between February and May 2020, a period when the New York Night flower is in high season, the image encapsulates the transient beauty of nature's cycles. There's a symbolic layer to this image as well; the Helleborus species, known for its toxicity to humans, paradoxically represents a kind of beauty that is alluring but untouchable, inviting contemplation on the fragility and complexity of nature's allure.
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-Jekyll also offers powerful support for code snippets:
+The focal point of this captivating image is a Helleborus species flower, specifically 'New York Night,' part of the Honeymoon series. These Lentin roses boast single black flowers adorned with a mesmerizing array of shades, including deep grey-purple, jet black, and black-purple hues. Against a velvety black backdrop, the composition exudes an elevated aesthetic reminiscent of a flower press. The photograph embodies a unique blend of elements, drawing inspiration from both childhood memories and the enchanting garden, transporting the viewer to a place where time seems suspended. Captured during the springtime, between February and May 2020, a period when the New York Night flower is in high season, the image encapsulates the transient beauty of nature's cycles. There's a symbolic layer to this image as well; the Helleborus species, known for its toxicity to humans, paradoxically represents a kind of beauty that is alluring but untouchable, inviting contemplation on the fragility and complexity of nature's allure. I was also captivated by Fleurs ability to make her photographs look like art that has taken hours to craft, it adds a layer of fragility.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
-
+This particular photo immediately captivated my attention with its irresistible aesthetic allure. The juxtaposition of deep black and rich purple hues creates a striking contrast that drew me in, while the velvety texture added a sense of opulence and elegance. The enigmatic flower, unfamiliar to me, piqued my curiosity and instantly beckoned me to explore its mysterious qualities. The fact that this flower is poisonous lends an intriguing metaphor of forbidden desire to the image, deepening its allure. I believe others may also find this photograph appealing for its unique approach to photography, as it possesses a frameable quality reminiscent of valuable artwork. Anneka French, a notable authority on such works, beautifully encapsulated the essence of the photographer's artistry, stating, "She highlights the fragile transparency of petals, intricacies of structure and form, and wide variety of color. Scent is almost palpable. The photographs are motionless, quiet, painterly" (as cited in [French], [2020], p. [Page Number]). This description eloquently underscores the captivating nature of this image and its potential to resonate with a wide audience.
