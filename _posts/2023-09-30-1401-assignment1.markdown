@@ -5,7 +5,7 @@ date:   2023-09-30 14:46:51 -0600
 categories: jekyll update
 ---
 
-<add the image here and include this caption below it> Hellevorus 'New York Nigt' flower photographed against a black velvet backdrop, 2020. © Fleur Olby
+**add the image here and include this caption below it** " Hellevorus 'New York Nigt' flower photographed against a black velvet backdrop, 2020. © Fleur Olby
 
 
 ### Exploring the Enigmatic World of 'Velvet Black - Notes'
