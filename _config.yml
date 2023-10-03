@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Artistry in Focus: Reviewing and exploring the Visual Realm
 email: salamakl@outlook.com
-description: >- # Explore the beauty of the world through pictures. A creative journey through photography's artistry, where each image tells a unique story, stirs emotions, and captures moments of wonder.
+description: >- # Explore the beauty of the world through pictures. A creative journey through photography's artistry, where images tell unique stories, stir emotions, an capture moments of wonder.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
