@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Artistry in Focus: Reviewing and exploring the Visual Realm
+title: Artistry in Focus - Reviewing and exploring the Visual Realm
 email: salamakl@outlook.com
 description: >- # Explore the beauty of the world through pictures. A creative journey through photography's artistry, where images tell unique stories, stir emotions, an capture moments of wonder.
 baseurl: "" # the subpath of your site, e.g. /blog
