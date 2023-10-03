@@ -43,5 +43,7 @@ The particular photo titled 'Helleborus' immediately captivated my attention wit
 - Garden Photography
 - Abstract Art
 
-References Sourced: French, A. (2020, July 22). Everything Looks Different in the Dark: a review of ‘Velvet Black’ by Fleur Olby and ‘Night Blooms’ by Angus Carlyle. Anneka French. [(https://annekafrench.wordpress.com/2020/07/22/everything-looks-different-in-the-dark-a-review-of-velvet-black-by-fleur-olby-and-night-blooms-by-angus-carlyle/)]
-Olby, F. (2020, October 24) Fleur Olby. Digdelve. [(https://digdelve.com/fleur-olby/)]
+References Sourced: 
+French, A. (2020, July 22). Everything Looks Different in the Dark: a review of ‘Velvet Black’ by Fleur Olby and ‘Night Blooms’ by Angus Carlyle. Anneka French. <https://annekafrench.wordpress.com/2020/07/22/everything-looks-different-in-the-dark-a-review-of-velvet-black-by-fleur-olby-and-night-blooms-by-angus-carlyle>
+
+Olby, F. (2020, October 24) Fleur Olby. Digdelve. <https://digdelve.com/fleur-olby>
