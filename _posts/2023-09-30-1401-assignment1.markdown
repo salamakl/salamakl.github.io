@@ -5,7 +5,13 @@ date:   2023-09-30 14:46:51 -0600
 categories: jekyll update
 ---
 
-![Hellevorus 'New York Nigt' flower photographed against a black velvet backdrop, 2020. © Fleur Olby](assets/images/blog/TitleImage.jpeg)
+<p align="center">
+  <img src="/assets/images/blog/TitleImage.jpeg" />
+</p>
+<p align="center">
+  <img src="" alt="Hellevorus 'New York Night' flower photographed against a black velvet backdrop, 2020. © Fleur Olby" />
+</p>
+
 
 
 ### Exploring the Enigmatic World of 'Velvet Black - Notes'
